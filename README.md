@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog is a Tinder like platform for Dogs.
